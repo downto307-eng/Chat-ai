@@ -1,0 +1,7 @@
+ai-chat/
+├── index.html
+├── style.css
+├── app.js
+├── favicon.ico
+└── assets/
+    └── mic.svg
